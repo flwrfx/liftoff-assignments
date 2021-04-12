@@ -20,9 +20,10 @@ Visual Grid Homepage Thing
     thumbnails in the grid will open its respective Interactive Canvas for the user to edit.
 
 Interactive Canvases
--The main function of the website is individual, "self-contained" Interactive Canvases on which the user can sketch ideas for projects.
-    The Interactive Canvases are "self-contained" in each thumbnail of the Visual Grid Homepage Thing.
-    The Interactive Canvas will have basic drawing/erasing functionality, with brush size control and brush color options.
+-The main function of the website is individual, "self-contained" Interactive Canvases on which 
+    the user can sketch ideas for projects. The Interactive Canvases are "self-contained" in each 
+    thumbnail of the Visual Grid Homepage Thing. The Interactive Canvas will have basic drawing/erasing 
+    functionality, with brush size control and brush color options.
 
 User Login
 -Users will be able to log in to save their Visual Grid Homepage Thing of Interactive Canvases.
@@ -44,10 +45,9 @@ Text Reference Board
     -Thymeleaf
     
 ### What I'll Have to Learn: Include what you will need to learn here
-    The first problem I'm forseeing is saving the user's work in the canvases. Saving data like that seems tricky. I also have to
-        learn how to add the canvases in the first place. (LiterallyCanvas API?) 
+    The first problem I'm forseeing is saving the user's work in the canvases. Saving data like that seems tricky. 
+        I also have to learn how to add the canvases in the first place. (LiterallyCanvas API?). 
 
 ### Project Tracker: Link to your Trello board here
 https://trello.com/b/uHz2kfYO/capstone-project
 
-https://github.com/flwrfx
